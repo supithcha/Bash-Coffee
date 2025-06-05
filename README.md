@@ -1,16 +1,15 @@
-# 2024-Bash-Coffee
+# Bash-Coffee
 
-# Team Members
-- 6488021 Russarin Eaimrittikrai
-- 6488045 Supithcha Jongphoemwatthanaphon
-- 6488052 Sasasuang Pattanakitjaroenchai
-- 6488061 Chaninan Phetpangun
-- 6488184 Runchida Ananartyasit
-- 6488203 Phacharaphan Chalitchaiya
-- 6488204 Pimmada Chompurat
+### Contributors
+- Russarin Eaimrittikrai
+- Supithcha Jongphoemwatthanaphon
+- Sasasuang Pattanakitjaroenchai
+- Chaninan Phetpangun
+- Runchida Ananartyasit
+- Phacharaphan Chalitchaiya
+- Pimmada Chompurat
 
-# Project 2
-## Bash Coffee Shop - Frontend
+### Bash Coffee Shop - Frontend
 
 This repository contains the frontend code for the Bash Coffee Shop web application, which provides customers with an interactive and user-friendly interface for viewing, searching, filtering, and adding items to their cart.
 
@@ -19,7 +18,7 @@ This repository contains the frontend code for the Bash Coffee Shop web applicat
 ### Linked Repositories
 
 The **Bash Coffee Shop** project is divided into two repositories:  
-1. **Frontend Repository:** [Bash Coffee Shop Frontend](https://github.com/rsrfay/Bash-Frontend/tree/Backup-Echo)
+1. **Frontend Repository:** [Bash Coffee Shop Frontend](https://github.com/supithcha/Bash-Frontend)
 - This frontend is developed by Echo and Noppo Group
     - To view test documents and safely run the test of Echo group, please use branch `Backup-Echo`
 2. **Backend Repository:** [Bash Coffee Shop Backend](https://github.com/supithcha/BashCoffee-backend)
@@ -48,7 +47,6 @@ This project aims to modernize the ordering system at Bash Coffee Shop by replac
 
 ---
 
-# Project 1
 This project designed unit test cases for [Restaurant-Management-System](https://github.com/sopnopriyo/restaurant-management-system). The following contents are documented explanations of each test case. All of the test suites are located in the folder `restaurant-management-maven/src/test/java`
 
 There is a total of 10 test suites:
